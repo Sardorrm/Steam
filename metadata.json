@@ -1,0 +1,6 @@
+{
+  "name": "Don't Trust the House",
+  "description": "Psychological horror game where the house learns your play style and the monster hunts dynamically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
